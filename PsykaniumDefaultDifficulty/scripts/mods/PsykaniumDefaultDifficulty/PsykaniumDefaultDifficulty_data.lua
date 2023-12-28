@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/PsykhaniumDefaultDifficulty-85-1-2-2-1682616648.1/mods/PsykaniumDefaultDifficulty/scripts/mods/PsykaniumDefaultDifficulty/PsykaniumDefaultDifficulty_data.lua

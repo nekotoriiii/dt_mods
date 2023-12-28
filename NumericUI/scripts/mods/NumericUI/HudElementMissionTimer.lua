@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/NumericUI-14-1-13-2-1702229135/mods/NumericUI/scripts/mods/NumericUI/HudElementMissionTimer.lua

@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/PreferAuric-198-1-1-0-1692051508/mods/PreferAuric/scripts/mods/PreferAuric/PreferAuric.lua

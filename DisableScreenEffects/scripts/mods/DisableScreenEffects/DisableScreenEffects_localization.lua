@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/DisableScreenEffects-17-2-0-0-1699222173/mods/DisableScreenEffects/scripts/mods/DisableScreenEffects/DisableScreenEffects_localization.lua

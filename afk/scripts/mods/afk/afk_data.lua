@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/AFK-33-23-4-05-1680675716/mods/afk/scripts/mods/afk/afk_data.lua

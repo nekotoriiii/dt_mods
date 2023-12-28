@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/Psych Ward-89-1-3-1-1703272031.1/mods/psych_ward/scripts/mods/psych_ward/psych_ward_data.lua

@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/ManyMoreTry-175-1-3-3-1702914532/mods/ManyMoreTry/scripts/mods/ManyMoreTry/ManyMoreTry.lua

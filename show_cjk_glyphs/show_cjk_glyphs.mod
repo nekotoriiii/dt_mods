@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/show_cjk_glyphs-149-2-0-2-1683521516/mods/show_cjk_glyphs/show_cjk_glyphs.mod

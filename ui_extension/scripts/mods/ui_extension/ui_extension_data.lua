@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/ui_extensions-20-1-01-1679861594/mods/ui_extension/scripts/mods/ui_extension/ui_extension_data.lua

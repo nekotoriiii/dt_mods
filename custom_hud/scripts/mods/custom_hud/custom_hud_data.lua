@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/Custom HUD-10-2-0-1-1702306614/mods/custom_hud/scripts/mods/custom_hud/custom_hud_data.lua

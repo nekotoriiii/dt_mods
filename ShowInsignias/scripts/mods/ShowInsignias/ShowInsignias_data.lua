@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/Show Insignias-271-1-0-1-1702730215/mods/ShowInsignias/scripts/mods/ShowInsignias/ShowInsignias_data.lua

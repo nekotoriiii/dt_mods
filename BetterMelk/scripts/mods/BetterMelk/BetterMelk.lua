@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/BetterMelk-71-1-8-1692114838/mods/BetterMelk/scripts/mods/BetterMelk/BetterMelk.lua

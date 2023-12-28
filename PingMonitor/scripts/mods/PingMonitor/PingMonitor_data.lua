@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/PingMonitor-13-1-0-2-1679862008/mods/PingMonitor/scripts/mods/PingMonitor/PingMonitor_data.lua

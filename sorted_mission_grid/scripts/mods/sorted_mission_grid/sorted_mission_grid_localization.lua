@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/Sorted Mission Grid-31-23-12-13-1702492973/mods/sorted_mission_grid/scripts/mods/sorted_mission_grid/sorted_mission_grid_localization.lua

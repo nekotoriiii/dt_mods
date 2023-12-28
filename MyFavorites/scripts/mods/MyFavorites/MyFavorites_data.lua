@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/MyFavorites-125-1-1-2-1687596488/mods/MyFavorites/scripts/mods/MyFavorites/MyFavorites_data.lua

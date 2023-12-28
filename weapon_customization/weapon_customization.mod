@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/weapon_customization/mods/weapon_customization/weapon_customization.mod

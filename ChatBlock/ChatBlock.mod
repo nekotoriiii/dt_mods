@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/ChatBlock-68-1-2-1-1696687674/mods/ChatBlock/ChatBlock.mod

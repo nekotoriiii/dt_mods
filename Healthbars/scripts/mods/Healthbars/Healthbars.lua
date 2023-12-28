@@ -1,0 +1,1 @@
+C:/Users/Ruben/AppData/Roaming/Vortex/warhammer40kdarktide/mods/Healthbars-16-2-1-0-1685489497/mods/Healthbars/scripts/mods/Healthbars/Healthbars.lua
